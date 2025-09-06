@@ -18,7 +18,7 @@ Developed an MQTT Client using the TM4C123GH6PM microcontroller that is able to 
 | TIMERS        |
 
 # Software Features
- * reboot: This command restarts the microcontroller.
+ * `reboot`: This command restarts the microcontroller.
  * ip:  status: This command displays the IP and MQTT address, the MQTT connection state, and the TCP FSM state.
  * set IP w.x.y.z: This command sets the IP address  and stores this address persistently in EEPROM.
  * set MQTT w.x.y.z: This command sets the IP address of the MQTT broker and stores this address persistently in EEPROM.
