@@ -34,5 +34,6 @@ Developed an MQTT Client using the TM4C123GH6PM microcontroller that is able to 
  * `disconnect`: The command disconnects from the MQTT broker.
 
  ![MQTT Client 1](https://github.com/user-attachments/assets/93b5e511-7bb6-4ac2-838f-f55b7196e9b1)
+ 
  ![MQTT Client 2](https://github.com/user-attachments/assets/959b2179-fee4-4bc8-988e-5657090ce64a)
 
