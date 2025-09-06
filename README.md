@@ -1,7 +1,8 @@
 # MQTT-Client
 Developed an MQTT Client using the TM4C123GH6PM microcontroller that is able to publish, subscribe, and unsubscribe to topics on the mosquitto MQTT broker. Used an ENC28J60 ethernet module to establish communication between microcontroller and MQTT broker.
 
-![MQTT Client](https://github.com/user-attachments/assets/54b35cea-9db5-463b-9352-b3db33ec98bf)
+    <img width="460" height="452" alt="image" src="https://github.com/user-attachments/assets/4ab65b8b-8137-466a-bb68-0983cd2aa84b" />
+
 
 
 
