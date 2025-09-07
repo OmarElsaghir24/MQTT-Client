@@ -27,11 +27,12 @@ Developed an MQTT Client using the TM4C123GH6PM microcontroller that is able to 
  * `ip`:  status: This command displays the IP and MQTT address, the MQTT connection state, and the TCP FSM state.
  * `set IP w.x.y.z`: This command sets the IP address  and stores this address persistently in EEPROM.
  * `set MQTT w.x.y.z`: This command sets the IP address of the MQTT broker and stores this address persistently in EEPROM.
- * `publish TOPIC DATA`: This command publishes a topic and associated data to the MQTT broker.
- * `subscribe TOPIC`: This command subscribes to a topic.
- * `unsubscribe TOPIC`: This command unsubscribes from a topic.
- * `connect`: This command sends a connect message to the MQTT broker.
- * `disconnect`: The command disconnects from the MQTT broker.
+ * `mqtt publish TOPIC DATA`: This command publishes a topic and associated data to the MQTT broker.
+ * `mqtt subscribe TOPIC`: This command subscribes to a topic.
+ * `mqtt unsubscribe TOPIC`: This command unsubscribes from a topic.
+ * `mqtt connect`: This command sends a connect message to the MQTT broker.
+ * `mqtt disconnect`: The command disconnects from the MQTT broker.
+ * `Restart`: Restarts connection with MQTT broker through TCP 3-way handshake.
 
  ![MQTT Client 1](https://github.com/user-attachments/assets/93b5e511-7bb6-4ac2-838f-f55b7196e9b1)
  
